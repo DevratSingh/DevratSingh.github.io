@@ -3,7 +3,7 @@ main:
   - title: "Projects"
     url: /publications/
     
-  - title: "Projects"
+  - title: "Port"
     url: /portfolio/
 
   - title: "Talks"
@@ -12,11 +12,8 @@ main:
   - title: "Courses"
     url: /teaching/    
       
-  - title: "Fill somethign here"
+  - title: "Something"
     url: /year-archive/
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
